@@ -1,4 +1,3 @@
 # New Project
 This  project was created from local system
-
-Created by Tabassum Shaikh
+Created by Tabassum Shaikh.
